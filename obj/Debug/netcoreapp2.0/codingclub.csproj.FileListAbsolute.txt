@@ -1,0 +1,10 @@
+c:\Users\Max\Desktop\codingclub\bin\Debug\netcoreapp2.0\codingclub.deps.json
+c:\Users\Max\Desktop\codingclub\bin\Debug\netcoreapp2.0\codingclub.runtimeconfig.json
+c:\Users\Max\Desktop\codingclub\bin\Debug\netcoreapp2.0\codingclub.runtimeconfig.dev.json
+c:\Users\Max\Desktop\codingclub\bin\Debug\netcoreapp2.0\codingclub.dll
+c:\Users\Max\Desktop\codingclub\bin\Debug\netcoreapp2.0\codingclub.pdb
+c:\Users\Max\Desktop\codingclub\obj\Debug\netcoreapp2.0\codingclub.csproj.CoreCompileInputs.cache
+c:\Users\Max\Desktop\codingclub\obj\Debug\netcoreapp2.0\codingclub.AssemblyInfoInputs.cache
+c:\Users\Max\Desktop\codingclub\obj\Debug\netcoreapp2.0\codingclub.AssemblyInfo.cs
+c:\Users\Max\Desktop\codingclub\obj\Debug\netcoreapp2.0\codingclub.dll
+c:\Users\Max\Desktop\codingclub\obj\Debug\netcoreapp2.0\codingclub.pdb
