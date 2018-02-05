@@ -8,3 +8,13 @@ c:\Users\Max\Desktop\codingclub\obj\Debug\netcoreapp2.0\codingclub.AssemblyInfoI
 c:\Users\Max\Desktop\codingclub\obj\Debug\netcoreapp2.0\codingclub.AssemblyInfo.cs
 c:\Users\Max\Desktop\codingclub\obj\Debug\netcoreapp2.0\codingclub.dll
 c:\Users\Max\Desktop\codingclub\obj\Debug\netcoreapp2.0\codingclub.pdb
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\bin\Debug\netcoreapp2.0\codingclub.deps.json
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\bin\Debug\netcoreapp2.0\codingclub.runtimeconfig.json
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\bin\Debug\netcoreapp2.0\codingclub.runtimeconfig.dev.json
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\bin\Debug\netcoreapp2.0\codingclub.dll
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\bin\Debug\netcoreapp2.0\codingclub.pdb
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\obj\Debug\netcoreapp2.0\codingclub.csproj.CoreCompileInputs.cache
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\obj\Debug\netcoreapp2.0\codingclub.AssemblyInfoInputs.cache
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\obj\Debug\netcoreapp2.0\codingclub.AssemblyInfo.cs
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\obj\Debug\netcoreapp2.0\codingclub.dll
+C:\Users\skyle\Documents\4390_PROJECTS\CodingClub\obj\Debug\netcoreapp2.0\codingclub.pdb
