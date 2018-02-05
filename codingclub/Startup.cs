@@ -6,7 +6,7 @@ using codingclub.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace codingclub
-{
+{//just a comment
     public class Startup
     {
         public Startup(IConfiguration configuration)
